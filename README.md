@@ -1,4 +1,4 @@
-# PhpFronttoBack
+# Php Front to Back
 
 This is the start of an ongoing series that will teach you the entire language of PHP. This series will include:
 
